@@ -49,6 +49,12 @@ Enter the complete path to a StepMania or DWI installation\ne.g. "C:\Program Fil
 [Dialog-StepMania Tools]
 StepMania Tools=Project OutFox Tools # Changed
 
+[ParaParaParadise]
+JudgmentW1=Great
+JudgmentW2=Good
+JudgmentMiss=Bad / Poor
+JudgmentMaxCombo=Max Combo
+
 [Dialog-StepMania Tools Main Menu]
 StepMania Tools Main Menu=Project OutFox Tools Main Menu # Changed
 ```

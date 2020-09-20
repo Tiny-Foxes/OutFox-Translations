@@ -8,7 +8,7 @@ English and Español are not included here because they're updated internally an
 Language | 4.8.3 | 4.8.5
 :------------ | :------------- | :-------------
 pt-BR | ✅ | ⬜️
-Japanese | ✅ | ⬜️ 
+Japanese | ✅ | ✅ 
 German | ✅ | ⬜️
 Polish | ✅ | ⬜️
 French | ✅ | ⬜️ 

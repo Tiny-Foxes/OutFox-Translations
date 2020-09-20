@@ -29,8 +29,8 @@ Fat=Fat # New
 Thin=Thin # New
 
 [OptionTitles]
-NotePathWidth=NotePath Width
-UsePointsandBlending=Use Points and Blending
+NotePathWidth=NotePath Width # New
+UsePointsandBlending=Use Points and Blending # New
 ```
 
 ### Default

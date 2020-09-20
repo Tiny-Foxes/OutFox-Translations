@@ -7,11 +7,13 @@ English and Español are not included here because they're updated internally an
 
 Language | 4.8.3 | 4.8.5
 :------------ | :------------- | :-------------
-pt-BR | ✅ | ⬜️
+pt-BR | ✅ | ✅
 Japanese | ✅ | ✅ 
 German | ✅ | ⬜️
 Polish | ✅ | ⬜️
 French | ✅ | ⬜️ 
+
+<!--- This is a comment that won't appear in the read me, here are the emojis that you can add to tell if your language is done or not. Done: ✅Not Done: ⬜️--->
 
 ## New lines for 5.3 **Alpha 4.8.5**
 

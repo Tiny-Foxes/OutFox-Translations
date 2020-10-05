@@ -5,15 +5,16 @@ Where translations that are in Project OutFox are stored. Please tick the box of
 English and Español are not included here because they're updated internally and are not hosted in Tiny-Foxes.
 ## Language Status
 
-Language | 4.8.3 | 4.8.5
-:------------ | :------------- | :-------------
-pt-BR | ✅ | ✅
-Japanese | ✅ | ✅ 
-German | ✅ | ⬜️
-Polish | ✅ | ✅
-French | ✅ | ⬜️ 
+Language | 4.8.3 | 4.8.5 | 4.8.9
+:------------ | :------------- | :------------- | :-------------
+pt-BR | ✅ | ✅ | ✅
+Japanese | ✅ | ✅ | ✅
+German | ✅ | ⬜️ | ✅
+Polish | ✅ | ✅ | ✅
+French | ✅ | ⬜️ | ✅
 
 <!--- This is a comment that won't appear in the read me, here are the emojis that you can add to tell if your language is done or not. Done: ✅Not Done: ⬜️--->
+### No new lines for 5.3 **Alpha 4.8.9**
 
 ## New lines for 5.3 **Alpha 4.8.5**
 

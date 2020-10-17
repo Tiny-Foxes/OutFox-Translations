@@ -12,7 +12,9 @@ Japanese | ✅ | ✅ | ✅ | ✅
 German | ✅ | ⬜️ | ✅ | ⬜️
 Polish | ✅ | ✅ | ✅ | ✅
 French | ✅ | ⬜️ | ✅ | ⬜️
+Italian | N/A | N/A | N/A | ⬜️
 
-<!--- This is a comment that won't appear in the read me, here are the emojis that you can add to tell if your language is done or not. Done: ✅Not Done: ⬜️--->
+
+<!--- This is a comment that won't appear in the read me, here are the emojis that you can add to tell if your language is done or not. Done: ✅Not Done: ⬜️Non applicable: N/A--->
 
 ### 4.9 has no new lines but the StepMania branding can now be used again, so consider reverting your changes when you changed "StepMania" and it's mentions to "Project OutFox".

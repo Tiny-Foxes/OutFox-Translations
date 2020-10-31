@@ -7,7 +7,7 @@ English and Español are not included here because they're updated internally an
 
 Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 |4.9.1 
 :------------ | :------------- | :------------- | :------------- | :------------- | :-------------
-pt-BR | ✅ | ✅ | ✅ | ✅| ⬜️
+pt-BR | ✅ | ✅ | ✅ | ✅| ✅
 Japanese | ✅ | ✅ | ✅ | ✅| ⬜️
 German | ✅ | ⬜️ | ✅ | ⬜️| ⬜️
 Polish | ✅ | ✅ | ✅ | ✅| ⬜️
@@ -20,6 +20,10 @@ Italian | N/A | N/A | N/A | ⬜️| ⬜️
 ### Fallback
 
 ```Ini
+[ScreenDebugOverlay]
+Both at Once=Both at Once # New
+Monkey Input=Monkey Input # This feature is no longe usable in 5.3 alpha 4.9.2 (?) but we should not remove for compatibility in case anything tries to get that key
+
 [OptionExplanations]
 Test Analog Lua Input=Test the responsiveness of analog inputs (such as analog sticks, triggers, and MIDI inputs). # New
 
@@ -29,7 +33,7 @@ Test Analog Lua Input=Test Analog Input # New
 [ScreenTestInput]
 HeaderText=Test Button Input # Changed
 
-[ScreenTestLuaAnalog]
+[ScreenTestLuaAnalog] # New, recommended to put bellow "[ScreenTestInput]"
 HeaderText=Test Analog Input # New
 ```
 

@@ -10,7 +10,7 @@ Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 |4.9.1
 pt-BR | ✅ | ✅ | ✅ | ✅| ✅
 Japanese | ✅ | ✅ | ✅ | ✅| ⬜️
 German | ✅ | ⬜️ | ✅ | ⬜️| ⬜️
-Polish | ✅ | ✅ | ✅ | ✅| ⬜️
+Polish | ✅ | ✅ | ✅ | ✅| ✅
 French | ✅ | ⬜️ | ✅ | ⬜️| ⬜️
 Italian | N/A | N/A | N/A | ⬜️| ⬜️
 

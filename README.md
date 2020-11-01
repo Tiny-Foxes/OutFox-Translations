@@ -2,12 +2,13 @@ OutFox-Translations
 
 Where translations that are in Project OutFox are stored. Please tick the box of your language when done for the requested version.
 
-English and Español are not included here because they're updated internally and are not hosted in Tiny-Foxes.
+English is not included here because they're updated internally and are not hosted in Tiny-Foxes.
 ## Language Status
 
-Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 |4.9.1 
+Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 | 4.9.1 
 :------------ | :------------- | :------------- | :------------- | :------------- | :-------------
 pt-BR | ✅ | ✅ | ✅ | ✅| ✅
+Español | ✅ | ✅ | ✅ | ✅| ⬜️
 Japanese | ✅ | ✅ | ✅ | ✅| ✅
 German | ✅ | ⬜️ | ✅ | ⬜️| ⬜️
 Polish | ✅ | ✅ | ✅ | ✅| ✅

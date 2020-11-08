@@ -10,10 +10,10 @@ Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 | 4.9.1
 pt-BR | ✅ | ✅ | ✅ | ✅| ✅
 Español | ✅ | ✅ | ✅ | ✅| ⬜️
 Japanese | ✅ | ✅ | ✅ | ✅| ✅
-German | ✅ | ⬜️ | ✅ | ⬜️| ⬜️
+German | ✅ | ⬜️ | ✅ | ⬜️| ✅
 Polish | ✅ | ✅ | ✅ | ✅| ✅
 French | ✅ | ⬜️ | ✅ | ⬜️| ⬜️
-Italian | N/A | N/A | N/A | ⬜️| ⬜️
+Italian | N/A | N/A | N/A | N/A | ⬜️
 
 
 <!--- This is a comment that won't appear in the read me, here are the emojis that you can add to tell if your language is done or not. Done: ✅Not Done: ⬜️Non applicable: N/A--->

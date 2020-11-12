@@ -46,4 +46,13 @@ ShowMascotCharacter=Display Narumi, the OutFox mascot, on the title screen. # Ch
 
 [ScreenTestLuaAnalog]
 HelpText=Hold &BACK; or &START; to exit. # New
+
+[ScreenEvaluation]
+# Judgment histogram page
+HistogramCol=Judgment Histogram # New
+Mean=Mean # New
+Median=Median # New
+Mode=Mode # New
+Late=Late # New
+Early=Early # New 
 ```

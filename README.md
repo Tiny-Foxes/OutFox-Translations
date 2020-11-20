@@ -14,6 +14,7 @@ German | ✅ | ⬜️ | ✅ | ⬜️| ✅| ✅
 Polish | ✅ | ✅ | ✅ | ✅| ✅| ⬜️
 French | ✅ | ⬜️ | ✅ | ⬜️| ⬜️| ⬜️
 Italian | N/A | N/A | N/A | N/A | N/A | ⬜️
+Hebrew | N/A | N/A | N/A | N/A | ✅ | ✅
 
 
 <!--- This is a comment that won't appear in the read me, here are the emojis that you can add to tell if your language is done or not. Done: ✅Not Done: ⬜️Non applicable: N/A--->

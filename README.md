@@ -54,5 +54,18 @@ Mean=Mean # New
 Median=Median # New
 Mode=Mode # New
 Late=Late # New
-Early=Early # New 
+Early=Early # New
+
+[OptionExplanations]
+SoundwavesMenuBG=Choose a menu background style for the Soundwaves theme. # New
+VideoRenderer=Choose between modern (GLAD) or legacy OpenGL graphics rendering engines.\nRequires a restart in order to take effect. # Changed
+UseOldJoystickMapping=If enabled, a HIDAPI-based ("legacy") input system modeled upon SM 5.0.x is used instead of XInput.\nRequires a restart in order to take effect. # Changed
+
+[OptionTitles]
+UseOldJoystickMapping=Use Legacy input system # Changed
+SoundwavesMenuBG=Menu background # New
+
+[OptionNames]
+swBGSolid=Solid # New
+swBGBlack=Black # new
 ```

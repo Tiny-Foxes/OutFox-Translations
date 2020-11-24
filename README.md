@@ -11,7 +11,7 @@ pt-BR | ✅ | ✅ | ✅ | ✅| ✅| ✅
 Español | ✅ | ✅ | ✅ | ✅| ⬜️| ⬜️
 Japanese | ✅ | ✅ | ✅ | ✅| ✅| ✅
 German | ✅ | ⬜️ | ✅ | ⬜️| ✅| ✅
-Polish | ✅ | ✅ | ✅ | ✅| ✅| ⬜️
+Polish | ✅ | ✅ | ✅ | ✅| ✅| ✅
 French | ✅ | ⬜️ | ✅ | ⬜️| ⬜️| ⬜️
 Italian | N/A | N/A | N/A | N/A | N/A | ⬜️
 Hebrew | N/A | N/A | N/A | N/A | ✅ | ✅

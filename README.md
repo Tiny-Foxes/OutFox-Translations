@@ -26,4 +26,8 @@ Czech | N/A | N/A | N/A | N/A | N/A | N/A| ⬜️ (Coming Soon, WIP)
 [ScreenMapControllers]
 Tertiary=Tertiary # New
 Controller=Controller # New
+
+[ScreenTestInput]
+Tertiary=Tertiary # New
+Controller=Controller # New
 ```

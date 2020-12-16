@@ -8,9 +8,9 @@ English is not included here because they're updated internally and are not host
 Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 | 4.9.1 | 4.9.2 - 4.9.5 | 4.9.6
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
 pt-BR | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
-Español | ✅ | ✅ | ✅ | ✅| ✅| ✅| ⬜️
+Español | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
 Japanese | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
-German | ✅ | ⬜️ | ✅ | ⬜️| ✅| ✅| ⬜️
+German | ✅ | ⬜️ | ✅ | ⬜️| ✅| ✅| ✅
 Polish | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
 French | ✅ | ⬜️ | ✅ | ⬜️| ⬜️| ⬜️ | ⬜️ (Needs Update 4.9.1 and 4.9.2)
 Italian | N/A | N/A | N/A | N/A | N/A | N/A| ⬜️ (WIP)

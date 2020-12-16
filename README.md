@@ -12,7 +12,7 @@ Español | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
 Japanese | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
 German | ✅ | ⬜️ | ✅ | ⬜️| ✅| ✅| ✅
 Polish | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
-French | ✅ | ⬜️ | ✅ | ⬜️| ⬜️| ⬜️ | ⬜️ (Needs Update 4.9.1 and 4.9.2)
+French | ✅ | ⬜️ | ✅ | ✅| ✅| ✅ | ✅
 Italian | N/A | N/A | N/A | N/A | N/A | N/A| ⬜️ (WIP)
 Hebrew | N/A | N/A | N/A | N/A | ✅ | ✅| ✅
 Slovak | N/A | N/A | N/A | N/A | N/A | N/A| ⬜️ (Coming Soon)

@@ -12,13 +12,17 @@ Español | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
 Japanese | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
 German | ✅ | ⬜️ | ✅ | ⬜️| ✅| ✅| ✅
 Polish | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅
-French | ✅ | ⬜️ | ✅ | ✅| ✅| ✅ | ✅
+French | ✅ | ✅ | ✅ | ✅| ✅| ✅ | ✅
 Italian | N/A | N/A | N/A | N/A | N/A | N/A| ⬜️ (WIP)
 Hebrew | N/A | N/A | N/A | N/A | ✅ | ✅| ✅
 Slovak | N/A | N/A | N/A | N/A | N/A | N/A| ⬜️ (Coming Soon)
 Czech | N/A | N/A | N/A | N/A | N/A | N/A| ⬜️ (Coming Soon, WIP)
 
 <!--- This is a comment that won't appear in the read me, here are the emojis that you can add to tell if your language is done or not. Done: ✅Not Done: ⬜️Non applicable: N/A--->
+
+### Keep your files clean/synchronized 
+
+To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/tag/0.5.1
 
 ### Fallback
 
@@ -28,6 +32,5 @@ Tertiary=Tertiary # New
 Controller=Controller # New
 
 [ScreenTestInput]
-Tertiary=Tertiary # New
 Controller=Controller # New
 ```

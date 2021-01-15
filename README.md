@@ -5,7 +5,7 @@ Where translations that are in Project OutFox are stored. Please tick the box of
 English is not included here because they're updated internally and are not hosted in Tiny-Foxes.
 ## Language Status
 
-Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 | 4.9.1 | 4.9.2 - 4.9.5 | 4.9.6 | 4.8.7
+Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 | 4.9.1 | 4.9.2 - 4.9.5 | 4.9.6 | 4.9.7
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
 pt-BR | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ⬜️
 Español | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ⬜️
@@ -22,7 +22,7 @@ Czech | N/A | N/A | N/A | N/A | N/A | N/A| N/A | ⬜️ (Coming Soon, WIP)
 
 ### Keep your files clean/synchronized 
 
-To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/tag/0.5.1
+To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest
 
 ### Fallback
 

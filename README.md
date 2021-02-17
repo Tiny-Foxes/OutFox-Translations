@@ -7,14 +7,14 @@ English is not included here because they're updated internally and are not host
 
 Language | 4.8.3 | 4.8.5 | 4.8.9 | 4.9 | 4.9.1 | 4.9.2 - 4.9.5 | 4.9.6 | 4.9.7
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-pt-BR | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ✅
+pt-BR | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ⬜️
 Español | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ⬜️
 Japanese | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ✅
 German | ✅ | ⬜️ | ✅ | ⬜️| ✅| ✅| ✅ | ⬜️
-Polish | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ✅
-French | ✅ | ✅ | ✅ | ✅| ✅| ✅ | ✅ | ✅
+Polish | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ⬜️
+French | ✅ | ✅ | ✅ | ✅| ✅| ✅ | ✅ | ⬜️
 Italian | N/A | N/A | N/A | N/A | N/A | N/A| N/A | ⬜️ (WIP)
-Hebrew | N/A | N/A | N/A | N/A | ✅ | ✅| ✅ | ✅
+Hebrew | N/A | N/A | N/A | N/A | ✅ | ✅| ✅ | ⬜️
 Slovak | N/A | N/A | N/A | N/A | N/A | N/A| N/A | ⬜️ (Coming Soon)
 Czech | N/A | N/A | N/A | N/A | N/A | N/A| N/A | ⬜️ (Coming Soon, WIP)
 
@@ -27,8 +27,30 @@ To keep your files clean and synchronized with the EN files, you can use the Tra
 ### Fallback
 
 ```Ini
+
+[OptionTitles]
+NotePathWidth=NotePath Width # Removed
+
+[OptionExplanations]
+NotePathWidth=Changes the default value for the notepath width. # Removed
+
 [ScreenDebugOverlay]
 Move Camera Back=Move Camera Back # New
 Move Camera Forward=Move Camera Forward # New
+Creator Debug=Creator Debug # New
 480p Mode=480p Mode # New
+
+[ScreenSelectGameMode]
+HeaderText=Select a game type # New
+
+[FAPlus] # New, not required to translate.
+JudgmentProW5=Fantastic! # New
+JudgmentW1=Fantastic # New
+JudgmentW2=Excellent # New
+JudgmentW3=Great # New
+JudgmentW4=Decent # New
+JudgmentW5=Way Off # New
+JudgmentHeld=Held # New
+JudgmentMaxCombo=Max Combo # New
+JudgmentMiss=Miss # New
 ```

@@ -14,7 +14,7 @@ German | ✅ | ⬜️ | ✅ | ⬜️| ✅| ✅| ✅ | ⬜️
 Polish | ✅ | ✅ | ✅ | ✅| ✅| ✅| ✅ | ⬜️
 French | ✅ | ✅ | ✅ | ✅| ✅| ✅ | ✅ | ⬜️
 Italian | N/A | N/A | N/A | N/A | N/A | N/A| N/A | ⬜️ (WIP)
-Hebrew | N/A | N/A | N/A | N/A | ✅ | ✅| ✅ | ⬜️
+Hebrew | N/A | N/A | N/A | N/A | ✅ | ✅| ✅ | ✅
 Slovak | N/A | N/A | N/A | N/A | N/A | N/A| N/A | ⬜️ (Coming Soon)
 Czech | N/A | N/A | N/A | N/A | N/A | N/A| N/A | ⬜️ (Coming Soon, WIP)
 

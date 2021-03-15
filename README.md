@@ -2,7 +2,7 @@ OutFox-Translations
 
 Where translations that are in Project OutFox are stored. English is not included here because they're updated internally and are not hosted in Tiny-Foxes.
 
-Learn how to translate in [our wiki](https://github.com/Tiny-Foxes/OutFox-Translations/wiki).
+Learn how to translate in [OutFox wiki](https://outfox.wiki/#/translation).
 ## Language Status
 
 Please tick the box of your language when done for the requested version.
@@ -31,7 +31,7 @@ WIP - Work in Progress
 
 ### Keep your files clean/synchronized 
 
-To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [our wiki tools page](https://github.com/Tiny-Foxes/OutFox-Translations/wiki/Tools-and-Practices)
+To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/#/translation?id=tools-and-practices)
 
 ### Fallback
 

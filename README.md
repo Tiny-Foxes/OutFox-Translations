@@ -9,6 +9,7 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+4.9.7.2 | ⬜️ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️  | ⬜️
 4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP
 4.9.6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A
 4.9.2 - 4.9.5 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A
@@ -37,29 +38,65 @@ To keep your files clean and synchronized with the EN files, you can use the Tra
 
 ```Ini
 
-[OptionTitles]
-NotePathWidth=NotePath Width # Removed
+[GameButton]
+Whammy=Whammy # New
+Star=Star # New
 
 [OptionExplanations]
-NotePathWidth=Changes the default value for the notepath width. # Removed
+GHFeatures=List of GH Modifiers. # New
 
-[ScreenDebugOverlay]
-Move Camera Back=Move Camera Back # New
-Move Camera Forward=Move Camera Forward # New
-Creator Debug=Creator Debug # New
-480p Mode=480p Mode # New
+[OptionNames]
+AllTaps=AllTaps # New
+NoTaps=NoTaps # New
+AllHopos=AllHopos # New
+NoHopos=NoHopos # New
+TapsToHopos=TapsToHopos # New
+HoposToTaps=HoposToTaps # New
 
-[ScreenSelectGameMode]
-HeaderText=Select a game type # New
+[OptionTitles]
+GHFeatures=GH Features # New
 
-[FAPlus] # New, not required to translate.
-JudgmentProW5=Fantastic! # New
-JudgmentW1=Fantastic # New
-JudgmentW2=Excellent # New
-JudgmentW3=Great # New
-JudgmentW4=Decent # New
-JudgmentW5=Way Off # New
+[StepsType]
+Techno_Single9=Single 9 # New
+Techno_Double9=Double 9 # New
+Gh_Solo=Solo # New
+Gh_Backup=Backup # New
+
+[GuitarH] # New
+JudgmentW1=Perfect # New
+JudgmentW2=Great # New
+JudgmentW3=OK # New
+JudgmentW4=# New
+JudgmentW5=# New
 JudgmentHeld=Held # New
 JudgmentMaxCombo=Max Combo # New
 JudgmentMiss=Miss # New
+
+[StepsListDisplayRow StepsType]
+Techno_Single9=Single 9 # New
+Techno_Double8=Double 8 # New
+Techno_Double9=Double 9 # New
+Pnm_Seven=7 Button # New
+
+[StepsDisplay StepsType]
+Techno_Single9=Single 9 # New
+Techno_Double9=Double 9 # New
+Pnm_Seven=7 Button # New
+```
+
+### Default
+
+```Ini
+[OptionNames]
+swClassic=Soundwaves (default) # Changed
+
+[StepsListDisplayRow StepsType]
+Techno_Single9=9 # New
+Techno_Double9=D9 # New
+Pnm_Seven=7 # New
+
+[LongStepsType]
+Techno_Single9=Techno Single 9 # New
+Techno_Double9=Techno Double 9 # New
+Pnm_Seven=PNM 7 Button # New
 ```

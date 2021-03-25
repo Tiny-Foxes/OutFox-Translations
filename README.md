@@ -62,6 +62,15 @@ Techno_Double9=Double 9 # New
 Gh_Solo=Solo # New
 Gh_Backup=Backup # New
 
+[PauseMenu]
+continue_playing=Continue Playing # New
+end_course=End Course # New
+forfeit_course=Forfeit Course # New
+forfeit_song=Forfeit Song # New
+pause_count=Pause Count # New
+restart_song=Restart Song # New
+skip_song=Skip Song # New
+
 [GuitarH] # New
 JudgmentW1=Perfect # New
 JudgmentW2=Great # New

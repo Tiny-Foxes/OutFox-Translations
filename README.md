@@ -7,17 +7,17 @@ Learn how to translate in [OutFox wiki](https://outfox.wiki/#/translation).
 
 Please tick the box of your language when done for the requested version.
 
-Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech
-:------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ✅ | ⬜️ | ✅ | ⬜️  | ⬜️
-4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP
-4.9.6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A
-4.9.2 - 4.9.5 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A
-4.9.1 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | ✅ | N/A | N/A
-4.9.0 | ✅ | ✅ | ✅ | ⬜️| ✅| ✅| N/A | N/A | N/A | N/A
-4.8.9 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | N/A | N/A | N/A
-4.8.5 | ✅ | ✅ | ✅ | ⬜️| ✅| ✅| N/A | N/A | N/A | N/A
-4.8.3 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | N/A | N/A | N/A
+Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
+:------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ✅ | ⬜️ | ✅ | ⬜️  | ⬜️ | ✅
+4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP | N/A
+4.9.6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A | N/A
+4.9.2 - 4.9.5 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A | N/A
+4.9.1 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | ✅ | N/A | N/A | N/A
+4.9.0 | ✅ | ✅ | ✅ | ⬜️| ✅| ✅| N/A | N/A | N/A | N/A | N/A
+4.8.9 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | N/A | N/A | N/A | N/A
+4.8.5 | ✅ | ✅ | ✅ | ⬜️| ✅| ✅| N/A | N/A | N/A | N/A | N/A
+4.8.3 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | N/A | N/A | N/A | N/A
 
 Trivia: 
 

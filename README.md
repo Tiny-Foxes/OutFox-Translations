@@ -9,14 +9,15 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ✅ | ⬜️ | ✅ | ⬜️  | ⬜️ | ✅
+4.9.9 | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | N/A | ✅ | ✅ | N/A | ✅ | N/A  | N/A | ✅
 4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP | N/A
 4.9.6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A | N/A
 4.9.2 - 4.9.5 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A | N/A
 4.9.1 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | ✅ | N/A | N/A | N/A
-4.9.0 | ✅ | ✅ | ✅ | ⬜️| ✅| ✅| N/A | N/A | N/A | N/A | N/A
+4.9.0 | ✅ | ✅ | ✅ | N/A| ✅| ✅| N/A | N/A | N/A | N/A | N/A
 4.8.9 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | N/A | N/A | N/A | N/A
-4.8.5 | ✅ | ✅ | ✅ | ⬜️| ✅| ✅| N/A | N/A | N/A | N/A | N/A
+4.8.5 | ✅ | ✅ | ✅ | N/A| ✅| ✅| N/A | N/A | N/A | N/A | N/A
 4.8.3 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | N/A | N/A | N/A | N/A
 
 Trivia: 
@@ -34,78 +35,31 @@ WIP - Work in Progress
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/#/translation?id=tools-and-practices)
 
+## 4.9.9
 ### Fallback
 
 ```Ini
-
 [GameButton]
-Whammy=Whammy # New
-Star=Star # New
+Tilt=Tilt # Removed
+Taiko Left Outside=Left Outside # Added
+Taiko Right Outside=Right Outside # Added
+Taiko Left Inside=Left Inside # Added
+Taiko Right Inside=Right Inside # Added
 
-[OptionExplanations]
-GHFeatures=List of GH Modifiers. # New
+[ScreenDebugOverlay]
+Enable Record Mode - High FPS when not focused=Enable Record Mode - High FPS when not focused # New
 
-[OptionNames]
-AllTaps=AllTaps # New
-NoTaps=NoTaps # New
-AllHopos=AllHopos # New
-NoHopos=NoHopos # New
-TapsToHopos=TapsToHopos # New
-HoposToTaps=HoposToTaps # New
-
-[OptionTitles]
-GHFeatures=GH Features # New
+[StepMania]
+Failed to create the context to test OpenGL=Failed to create the context to test OpenGL # New
 
 [StepsType]
-Techno_Single9=Single 9 # New
-Techno_Double9=Double 9 # New
-Gh_Solo=Solo # New
-Gh_Backup=Backup # New
-
-[PauseMenu]
-continue_playing=Continue Playing # New
-end_course=End Course # New
-forfeit_course=Forfeit Course # New
-forfeit_song=Forfeit Song # New
-pause_count=Pause Count # New
-restart_song=Restart Song # New
-skip_song=Skip Song # New
-
-[GuitarH] # New
-JudgmentW1=Perfect # New
-JudgmentW2=Great # New
-JudgmentW3=OK # New
-JudgmentW4=# New
-JudgmentW5=# New
-JudgmentHeld=Held # New
-JudgmentMaxCombo=Max Combo # New
-JudgmentMiss=Miss # New
-
-[StepsListDisplayRow StepsType]
-Techno_Single9=Single 9 # New
-Techno_Double8=Double 8 # New
-Techno_Double9=Double 9 # New
-Pnm_Seven=7 Button # New
+Para_Eight=8 Sensor # New
+Pnm_Nine_Double=18 Button # New
+Taiko=Taiko # New
 
 [StepsDisplay StepsType]
-Techno_Single9=Single 9 # New
-Techno_Double9=Double 9 # New
-Pnm_Seven=7 Button # New
-```
+Para_Eight=8 Sensor # New
 
-### Default
-
-```Ini
-[OptionNames]
-swClassic=Soundwaves (default) # Changed
-
-[StepsListDisplayRow StepsType]
-Techno_Single9=9 # New
-Techno_Double9=D9 # New
-Pnm_Seven=7 # New
-
-[LongStepsType]
-Techno_Single9=Techno Single 9 # New
-Techno_Double9=Techno Double 9 # New
-Pnm_Seven=PNM 7 Button # New
+[ThemePrefsRows]
+TypeMismatch=Type mismatch between default (%s) and value %d (%s) # New
 ```

@@ -59,7 +59,4 @@ Taiko=Taiko # New
 
 [StepsDisplay StepsType]
 Para_Eight=8 Sensor # New
-
-[ThemePrefsRows]
-TypeMismatch=Type mismatch between default (%s) and value %d (%s) # New
 ```

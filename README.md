@@ -9,7 +9,7 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-4.9.9 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+4.9.9 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️
 4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | N/A | ✅ | ✅ | N/A | ✅ | N/A  | N/A | ✅
 4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP | N/A
 4.9.6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A | N/A

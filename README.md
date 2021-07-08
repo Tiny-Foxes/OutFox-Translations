@@ -9,7 +9,7 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-4.9.9 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ✅
+4.9.9 | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | N/A | ✅ | ✅ | N/A | ✅ | N/A  | N/A | ✅
 4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP | N/A
 4.9.6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A | N/A
@@ -51,6 +51,16 @@ Enable Record Mode - High FPS when not focused=Enable Record Mode - High FPS whe
 
 [StepMania]
 Failed to create the context to test OpenGL=Failed to create the context to test OpenGL # New
+
+[OptionExplanations]
+EffectVolume=Change the volume for sound effects. # New
+
+[OptionTitles]
+EffectVolume=Sound Effect Volume # New
+
+[ScreenDebugOverlay]
+Effect Volume Up=Effect Volume Up # New
+Effect Volume Down=Effect Volume Down # New
 
 [StepsType]
 Para_Eight=8 Sensor # New

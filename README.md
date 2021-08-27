@@ -9,6 +9,7 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+4.9.9 | ✅ | ✅ | ⬜️ | ⬜️ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
 4.9.9 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
 4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | N/A | ✅ | ✅ | N/A | ✅ | N/A  | N/A | ✅
 4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP | N/A
@@ -35,38 +36,68 @@ WIP - Work in Progress
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/#/translation?id=tools-and-practices)
 
-## 4.9.9
-### Fallback
+## 4.9.10
 
-```Ini
+### Fallback
+```ìni
+[Taitai] # Added
+JudgmentW1=Good
+JudgmentW2=Ok
+JudgmentW5=Bad
+JudgmentHeld=Held
+JudgmentMaxCombo=Max Combo
+JudgmentMiss=Miss
+
 [GameButton]
-Tilt=Tilt # Removed
-Taiko Left Outside=Left Outside # Added
-Taiko Right Outside=Right Outside # Added
-Taiko Left Inside=Left Inside # Added
-Taiko Right Inside=Right Inside # Added
-
-[ScreenDebugOverlay]
-Enable Record Mode - High FPS when not focused=Enable Record Mode - High FPS when not focused # New
-
-[StepMania]
-Failed to create the context to test OpenGL=Failed to create the context to test OpenGL # New
+BackRight=BackRight # Added
+BackLeft=BackLeft # Added
+Left Crash=Left Crash # Added
+Right Crash=Right Crash # Added
+High Tom=High Tom # Added
+Mid Tom=Mid Tom # Added
+Floor Tom=Floor Tom # Added
 
 [OptionExplanations]
-EffectVolume=Change the volume for sound effects. # New
+Haste=Makes playback of music change dynamically based on player performance. # Added
+Pitch=Changes the tone of the music. # Added
+
+[OptionNames]
+EffectBoth=Speed & Pitch # Added
 
 [OptionTitles]
-EffectVolume=Sound Effect Volume # New
-
-[ScreenDebugOverlay]
-Effect Volume Up=Effect Volume Up # New
-Effect Volume Down=Effect Volume Down # New
+Haste=Haste # Added
+Pitch=Pitch # Added
 
 [StepsType]
-Para_Eight=8 Sensor # New
-Pnm_Nine_Double=18 Button # New
-Taiko=Taiko # New
+Techno_Single9=Single 9 # Added
+Techno_Double9=Double 9 # Added
+Gddm_Real=Real # Added
 
-[StepsDisplay StepsType]
-Para_Eight=8 Sensor # New
+# Added, not exactly necessary to translate.
+[Pump Normal]
+JudgmentW1=Perfect
+JudgmentW2=Great
+JudgmentW3=Decent
+JudgmentW4=Way Off
+JudgmentHeld=Held
+JudgmentMaxCombo=Max Combo
+JudgmentMiss=Miss
+
+[Pump Hard]
+JudgmentW1=Perfect
+JudgmentW2=Great
+JudgmentW3=Decent
+JudgmentW4=Way Off
+JudgmentHeld=Held
+JudgmentMaxCombo=Max Combo
+JudgmentMiss=Miss
+
+[Pump Very Hard]
+JudgmentW1=Perfect
+JudgmentW2=Great
+JudgmentW3=Decent
+JudgmentW4=Way Off
+JudgmentHeld=Held
+JudgmentMaxCombo=Max Combo
+JudgmentMiss=Miss
 ```

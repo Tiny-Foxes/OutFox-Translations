@@ -38,8 +38,8 @@ To keep your files clean and synchronized with the EN files, you can use the Tra
 
 ## 4.9.10
 
-### Fallback
-```ìni
+### Fallback
+```ini
 [Taitai] # Added
 JudgmentW1=Good
 JudgmentW2=Ok

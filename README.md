@@ -9,7 +9,8 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-4.9.10 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
+4.10.0 | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+4.9.10 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 4.9.9 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
 4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | N/A | ✅ | ✅ | N/A | ✅ | N/A  | N/A | ✅
 4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP | N/A
@@ -36,68 +37,28 @@ WIP - Work in Progress
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/#/translation?id=tools-and-practices)
 
-## 4.9.10
+## 4.10.0
 
 ### Fallback
 ```ini
-[Taitai] # Added
-JudgmentW1=Good
-JudgmentW2=Ok
-JudgmentW5=Bad
-JudgmentHeld=Held
-JudgmentMaxCombo=Max Combo
-JudgmentMiss=Miss
-
-[GameButton]
-BackRight=BackRight # Added
-BackLeft=BackLeft # Added
-Left Crash=Left Crash # Added
-Right Crash=Right Crash # Added
-High Tom=High Tom # Added
-Mid Tom=Mid Tom # Added
-Floor Tom=Floor Tom # Added
-
 [OptionExplanations]
-Haste=Makes playback of music change dynamically based on player performance. # Added
-Pitch=Changes the tone of the music. # Added
-
-[OptionNames]
-EffectBoth=Speed & Pitch # Added
+BackPlates=Select a BackPlate to display behind the Notefield. # Added
+GDDMRealToNew=Change GDDM Real charts to New. # Added
 
 [OptionTitles]
-Haste=Haste # Added
-Pitch=Pitch # Added
+BackPlates=BackPlates # Added
+GDDMRealToNew=Real To New # Added
+```
 
+### Replacements (Fallback)
+```diff
 [StepsType]
-Techno_Single9=Single 9 # Added
-Techno_Double9=Double 9 # Added
-Gddm_Real=Real # Added
-
-# Added, not exactly necessary to translate.
-[Pump Normal]
-JudgmentW1=Perfect
-JudgmentW2=Great
-JudgmentW3=Decent
-JudgmentW4=Way Off
-JudgmentHeld=Held
-JudgmentMaxCombo=Max Combo
-JudgmentMiss=Miss
-
-[Pump Hard]
-JudgmentW1=Perfect
-JudgmentW2=Great
-JudgmentW3=Decent
-JudgmentW4=Way Off
-JudgmentHeld=Held
-JudgmentMaxCombo=Max Combo
-JudgmentMiss=Miss
-
-[Pump Very Hard]
-JudgmentW1=Perfect
-JudgmentW2=Great
-JudgmentW3=Decent
-JudgmentW4=Way Off
-JudgmentHeld=Held
-JudgmentMaxCombo=Max Combo
-JudgmentMiss=Miss
+-Guitar_Five=5 Frets
+-Guitar_Six=6 Frets
+-Bass_Six=5 Frets Bass
+-Guitar_Three=3 Frets
+-Bass_Four=3 Frets Bass
++Gdgf_Five=5 Frets
++Gdgf_Six=6 Frets
++Gdgf_Three=3 Frets
 ```

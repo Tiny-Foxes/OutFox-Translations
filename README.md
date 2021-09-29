@@ -61,4 +61,7 @@ GDDMRealToNew=Real To New # Added
 +Gdgf_Five=5 Frets
 +Gdgf_Six=6 Frets
 +Gdgf_Three=3 Frets
++Gdgf_Bass_Five=5 Bass
++Gdgf_Bass_Six=6 Bass
++Gdgf_Bass_Three=3 Bass
 ```

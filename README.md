@@ -2,14 +2,14 @@ OutFox-Translations
 
 Where translations that are in Project OutFox are stored. English is not included here because they're updated internally and are not hosted in Tiny-Foxes.
 
-Learn how to translate in [OutFox wiki](https://outfox.wiki/#/translation).
+Learn how to translate in [OutFox wiki](https://outfox.wiki/dev/translation/).
 ## Language Status
 
 Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-4.10.0 | ⬜️ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+4.10.0 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 4.9.10 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 4.9.9 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
 4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | N/A | ✅ | ✅ | N/A | ✅ | N/A  | N/A | ✅
@@ -31,11 +31,20 @@ Trivia:
 N/A - Non existant at its time
 
 WIP - Work in Progress
-<!--- This is a comment that won't appear in the read me, here are the emojis that you can add to tell if your language is done or not. Done: ✅ Not Done: ⬜️ Non applicable: N/A Work in Progress: WIP--->
+<!--- This is a comment that won't appear in the readme.
+
+1. Here are the emojis that you can add to tell if your language is done or not. 
+    Done: ✅ 
+    Not Done: ⬜️ 
+    Non applicable: N/A 
+    Work in Progress: WIP
+
+2. If you aren't part of OutFox Team, DO NOT change table formatting without asking for confirmation.
+--->
 
 ### Keep your files clean/synchronized 
 
-To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/#/translation?id=tools-and-practices)
+To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
 
 ## 4.10.0
 

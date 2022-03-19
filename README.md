@@ -9,6 +9,7 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.4.14.0 | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 4.13.0 | ✅ | ✅ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | WIP | ⬜️ | ✅
 4.11.1 | ✅ | ✅ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 4.10.0 | ✅ | ⬜️ | ✅ | ⬜ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
@@ -47,6 +48,93 @@ WIP - Work in Progress
 ### Keep your files clean/synchronized 
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
+
+## 0.4.14.0
+### Fallback
+```ini
+[Common]
+WindowTitle=Project OutFox # The WindowTitle no longer mentions "5.3 Alpha" due to a change in version numbering.
+
+[OptionExplanations]
+AllowEditorAutoSaving=Enables the editor's auto saving feature, which will save the current chart automatically every 5 minutes. # New
+
+[OptionsList]
+Exit=Exit # New
+
+[OptionTitles]
+AllowEditorAutoSaving=Auto Saving # New
+
+[StepsType]
+Kb16_Single=KB16 # New
+Kb17_Single=KB17 # New
+Kb18_Single=KB18 # New
+Kb19_Single=KB19 # New
+Ds3ddx_Single5=Single5 # New
+Ds3ddx_Double5=Double5 # New
+Ds3ddx_Routine5=Routine5 # New
+
+[StepsDisplay StepsType]
+Kb1_Single=KB1 # New
+Kb2_Single=KB2 # New
+Kb3_Single=KB3 # New
+Kb4_Single=KB4 # New
+Kb5_Single=KB5 # New
+Kb6_Single=KB6 # New
+Kb7_Single=KB7 # New
+Kb8_Single=KB8 # New
+Kb9_Single=KB9 # New
+Kb10_Single=KB10 # New
+Kb11_Single=KB11 # New
+Kb12_Single=KB12 # New
+Kb13_Single=KB13 # New
+Kb14_Single=KB14 # New
+Kb15_Single=KB15 # New
+Kb16_Single=KB16 # New
+Kb17_Single=KB17 # New
+Kb18_Single=KB18 # New
+Kb19_Single=KB19 # New
+Ds3ddx_Single5=Single5 # New
+Ds3ddx_Double5=Double5 # New
+Ds3ddx_Routine5=Routine5 # New
+
+[StepsListDisplayRow StepsType]
+Kb1_Single=KB1 # New
+Kb2_Single=KB2 # New
+Kb3_Single=KB3 # New
+Kb4_Single=KB4 # New
+Kb5_Single=KB5 # New
+Kb6_Single=KB6 # New
+Kb7_Single=KB7 # New
+Kb8_Single=KB8 # New
+Kb9_Single=KB9 # New
+Kb10_Single=KB10 # New
+Kb11_Single=KB11 # New
+Kb12_Single=KB12 # New
+Kb13_Single=KB13 # New
+Kb14_Single=KB14 # New
+Kb15_Single=KB15 # New
+Kb16_Single=KB16 # New
+Kb17_Single=KB17 # New
+Kb18_Single=KB18 # New
+Kb19_Single=KB19 # New
+Ds3ddx_Single5=Single5 # New
+Ds3ddx_Double5=Double5 # New
+Ds3ddx_Routine5=Routine5 # New
+```
+
+### Default
+```ini
+[Common]
+WindowTitle=Project OutFox # The WindowTitle no longer mentions "5.3 Alpha" due to a change in version numbering.
+
+[OptionNames]
+SpeedCA=ConstAverage BPM (CA) # New
+
+[LongStepsType]
+Kb17_Single=KBX 17 Key
+Kb18_Single=KBX 18 Key
+Kb19_Single=KBX 19 Key
+```
 
 ## 4.13.0
 

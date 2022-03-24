@@ -9,7 +9,7 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-0.4.14.0 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+0.4.14.0 | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 4.13.0 | ✅ | ✅ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | WIP | ⬜️ | ✅
 4.11.1 | ✅ | ✅ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 4.10.0 | ✅ | ⬜️ | ✅ | ⬜ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
@@ -120,6 +120,12 @@ Kb19_Single=KB19 # New
 Ds3ddx_Single5=Single5 # New
 Ds3ddx_Double5=Double5 # New
 Ds3ddx_Routine5=Routine5 # New
+
+[GameButton]
+Key16=Key 16 # New
+Key17=Key 17 # New
+Key18=Key 18 # New
+Key19=Key 19 # New
 ```
 
 ### Default

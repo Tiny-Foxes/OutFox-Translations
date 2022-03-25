@@ -137,6 +137,7 @@ WindowTitle=Project OutFox # The WindowTitle no longer mentions "5.3 Alpha" due 
 SpeedCA=ConstAverage BPM (CA) # New
 
 [LongStepsType]
+Kb16_Single=KBX 16 Key
 Kb17_Single=KBX 17 Key
 Kb18_Single=KBX 18 Key
 Kb19_Single=KBX 19 Key

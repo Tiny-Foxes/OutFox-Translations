@@ -49,6 +49,13 @@ WIP - Work in Progress
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
 
+## 0.4.15.0
+### Fallback
+```ini
+[GameButtons]
+FootCenter=FootCenter # New
+```
+
 ## 0.4.14.0
 ### Fallback
 ```ini

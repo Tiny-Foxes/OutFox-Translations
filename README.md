@@ -1,30 +1,42 @@
-OutFox-Translations
+# OutFox-Translations
 
 Where translations that are in Project OutFox are stored. English is not included here because they're updated internally and are not hosted in Tiny-Foxes.
 
-Learn how to translate in [OutFox wiki](https://outfox.wiki/dev/translation/).
+Learn how to translate with [OutFox wiki](https://outfox.wiki/dev/translation/).
+
+### Alpha V Branch
+
+This is meant for Alpha V and future translation, if you want to translate Alpha 4 LTS, go to the master branch instead.
+
+Q: _"How do I get Alpha V?"_
+
+1. [Join our Discord Server](https://discord.gg/cN4TjgQdcA) (https://discord.gg/cN4TjgQdcA) to participate in our testing program.
+    - Select the `#pick-a-role` channel.
+    - Scroll the channel all the way down and click the "Test Alpha V" button which should be with the last message sent in that channel.
+    - You should now be able to see a channels that start with "alpha5" inside the `OutFox-Development Category`, select the `alpha5-test-builds` channel.
+    - Grab the latest build for your platform.
+2. [Join our Discord Server](https://discord.gg/cN4TjgQdcA) (https://discord.gg/cN4TjgQdcA) to ask For a Steam key
+    - Select the `#steam-general` channel inside the "OutFox on Steam" Category
+    - Send a message requesting a key. (Depending on when you do this there might not have keys left)
 ## Language Status
 
-Please tick the box of your language when done for the requested version.
+## Installer
 
-Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
-:------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-0.4.15.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-0.4.14.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜ | ✅ | ⬜️ | ✅
-4.13.0 | ✅ | ✅ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | WIP | ⬜️ | ✅
-4.11.1 | ✅ | ✅ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
-4.10.0 | ✅ | ⬜️ | ✅ | ⬜ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
-4.9.10 | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
-4.9.9 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
-4.9.7.1 - 4.9.8 | ✅ | ✅ | ✅ | N/A | ✅ | ✅ | N/A | ✅ | N/A  | N/A | ✅
-4.9.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | WIP | ✅ | WIP  | WIP | N/A
-4.9.6 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A | N/A
-4.9.2 - 4.9.5 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | N/A | ✅ | N/A | N/A | N/A
-4.9.1 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | ✅ | N/A | N/A | N/A
-4.9.0 | ✅ | ✅ | ✅ | N/A| ✅| ✅| N/A | N/A | N/A | N/A | N/A
-4.8.9 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | N/A | N/A | N/A | N/A
-4.8.5 | ✅ | ✅ | ✅ | N/A| ✅| ✅| N/A | N/A | N/A | N/A | N/A
-4.8.3 | ✅ | ✅ | ✅ | ✅| ✅| ✅| N/A | N/A | N/A | N/A | N/A
+Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
+:------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.5.0.0 RC26 | ✅ | N/A | ✅ | ✅ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
+
+## Fallback
+
+Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
+:------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.5.0.0 RC26 | ✅ | ✅ | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC
+
+## alphav-dance
+
+Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
+:------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.5.0.0 RC26 | WIP | ✅ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 
 Trivia: 
 
@@ -32,9 +44,14 @@ Trivia:
 
 ⬜️ - Not implemented
 
-N/A - Non existant at its time
+N/A - Non existent at its time
 
 WIP - Work in Progress
+
+LGC - Legacy Translation (From Alpha 4)
+
+---
+
 <!--- This is a comment that won't appear in the readme.
 
 1. Here are the emojis that you can add to tell if your language is done or not. 
@@ -42,6 +59,7 @@ WIP - Work in Progress
     Not Done: ⬜️ 
     Non applicable: N/A 
     Work in Progress: WIP
+    Legacy Translation: LGC
 
 2. If you aren't part of OutFox Team, DO NOT change table formatting without asking for confirmation.
 --->
@@ -50,148 +68,77 @@ WIP - Work in Progress
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
 
-## 0.4.15.0
+## 0.5.0.0 RC26
 ### Fallback
 ```ini
-[GameButtons]
-FootCenter=FootCenter # New
+[ProfileAction]
+AssignToOnlineAccount=Assign to OutFox Online Account
+
+[ScreenOptionsManageProfiles]
+Enter a username.=Enter a username to assign this profile.
+Enter an email address.=Enter an email address.
+Check User Inbox=Check your inbox for the registration email.
+Email Duplicate=The email provided already has an account assigned to it.
+Timed Out=Operation timed out.
+
+[ScreenSelectMusic]
+PermanentlyDeleteChart=Permanently delete chart '%s' ( From song %s ) from disk?
+
+[StepsType]
+Boxing_Freestyle=Freestyle
 ```
 
-## 0.4.14.0
-### Fallback
+### alphav-dance
 ```ini
-[Common]
-WindowTitle=Project OutFox # The WindowTitle no longer mentions "5.3 Alpha" due to a change in version numbering.
+[ScreenWithMenuElements]
+Continue=Continue
 
-[OptionExplanations]
-AllowEditorAutoSaving=Enables the editor's auto saving feature, which will save the current chart automatically every 5 minutes. # New
+# These are made for the Lua wheel.
+[SortingModes]
+group=Group
+title=Title
+artist=Artist
+genre=Genre
+bpm=BPM
+length=Length
+search=Search
+# The following modes are exclusive to the search feature.
+subtitle=Subtitle
+pack=Pack
+meter=Meter
 
-[OptionsList]
-Exit=Exit # New
+[ScreenEvaluation]
+ScoreSubmitExisting=Score already submitted.
+
+[LuaSelectMusic]
+SearchButton=SEARCH
+PersonalBest=Personal Best
+
+[SearchSongWide]
+FlagSuggestion=Use these flags to find specific songs!
+
+[OptionsMenu]
+# Left-side option titles
+Game=Game
+Controls=Controls
+Sound=Sound
+Calibration=Calibration
+Graphics=Graphics
+Theme=Theme
+Help=Help
 
 [OptionTitles]
-AllowEditorAutoSaving=Auto Saving # New
+# Lua wheel options
+Search for Song=Search for Song
+ShowLeaderboard=Show leaderboard
+Change Profile=Change Profile
+Exit Menu=Exit Options Menu
+UseTouchControls=Enable mouse/touch controls
 
-[StepsType]
-Kb16_Single=KB16 # New
-Kb17_Single=KB17 # New
-Kb18_Single=KB18 # New
-Kb19_Single=KB19 # New
-Ds3ddx_Single5=Single5 # New
-Ds3ddx_Double5=Double5 # New
-Ds3ddx_Routine5=Routine5 # New
+# Options Menu items
+Go to legacy options=Go to legacy options
 
-[StepsDisplay StepsType]
-Kb1_Single=KB1 # New
-Kb2_Single=KB2 # New
-Kb3_Single=KB3 # New
-Kb4_Single=KB4 # New
-Kb5_Single=KB5 # New
-Kb6_Single=KB6 # New
-Kb7_Single=KB7 # New
-Kb8_Single=KB8 # New
-Kb9_Single=KB9 # New
-Kb10_Single=KB10 # New
-Kb11_Single=KB11 # New
-Kb12_Single=KB12 # New
-Kb13_Single=KB13 # New
-Kb14_Single=KB14 # New
-Kb15_Single=KB15 # New
-Kb16_Single=KB16 # New
-Kb17_Single=KB17 # New
-Kb18_Single=KB18 # New
-Kb19_Single=KB19 # New
-Ds3ddx_Single5=Single5 # New
-Ds3ddx_Double5=Double5 # New
-Ds3ddx_Routine5=Routine5 # New
-
-[StepsListDisplayRow StepsType]
-Kb1_Single=KB1 # New
-Kb2_Single=KB2 # New
-Kb3_Single=KB3 # New
-Kb4_Single=KB4 # New
-Kb5_Single=KB5 # New
-Kb6_Single=KB6 # New
-Kb7_Single=KB7 # New
-Kb8_Single=KB8 # New
-Kb9_Single=KB9 # New
-Kb10_Single=KB10 # New
-Kb11_Single=KB11 # New
-Kb12_Single=KB12 # New
-Kb13_Single=KB13 # New
-Kb14_Single=KB14 # New
-Kb15_Single=KB15 # New
-Kb16_Single=KB16 # New
-Kb17_Single=KB17 # New
-Kb18_Single=KB18 # New
-Kb19_Single=KB19 # New
-Ds3ddx_Single5=Single5 # New
-Ds3ddx_Double5=Double5 # New
-Ds3ddx_Routine5=Routine5 # New
-
-[GameButton]
-Key16=Key 16 # New
-Key17=Key 17 # New
-Key18=Key 18 # New
-Key19=Key 19 # New
-```
-
-### Default
-```ini
-[Common]
-WindowTitle=Project OutFox # The WindowTitle no longer mentions "5.3 Alpha" due to a change in version numbering.
-
-[OptionNames]
-SpeedCA=ConstAverage BPM (CA) # New
-
-[LongStepsType]
-Kb16_Single=KBX 16 Key
-Kb17_Single=KBX 17 Key
-Kb18_Single=KBX 18 Key
-Kb19_Single=KBX 19 Key
-```
-
-## 4.13.0
-
-### Fallback
-```ini
-[GameButton]
-RedLeft=Left Red # New
-BlueLeft=Left Blue # New
-YellowLeft=Left Yellow # New
-RedRight=Right Red # New
-BlueRight=Right Blue # New
-YellowRight=Right Yellow # New
-
-[OptionExplanations]
-LiftHoldsToHolds=Makes all holds and rolls not require that they be released when they end. # New
-
-[OptionNames]
-LiftHoldsToHolds=LiftHolds To Holds # New
-
-[ScreenTextEntry]
-AnswerCaret=| # Edited, original: AnswerCaret=_
-
-[StepsType]
-Dance_Solodouble=Solo Double # New
-Dance_Threedouble=3P Double # New
-Ds3ddx_Double=Double # New
-
-[KBX] # New
-JudgmentW1=Perfect # New
-JudgmentW2=Superb # New
-JudgmentW3=Great # New
-JudgmentW4=Cool # New
-JudgmentW5=Dire # New
-JudgmentHeld=Held # New
-JudgmentMaxCombo=Max Combo # New
-JudgmentMiss=Awful # New
-
-[EditHelpDescription]
-Jump to end of song=Jump to end of song # New
-Place Note=Place note # New
-Go to beat=Go to beat # New
-
-[StepsDisplay StepsType]
-Ds3ddx_Double=Double # New
+[KnownBugs]
+Continue=Continue
+HelpText=&START; Continue
 ```

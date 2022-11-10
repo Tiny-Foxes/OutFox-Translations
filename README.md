@@ -31,7 +31,7 @@ Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Heb
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-0.5.0.0 RC28 | ⬜️ | ⬜️ | ⬜️| ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+0.5.0.0 RC28 | ✅ | ⬜️ | ⬜️| ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.5.0.0 RC26 | ✅ | ✅ | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC
 
 ## alphav-dance

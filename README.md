@@ -24,18 +24,21 @@ Q: _"How do I get Alpha V?"_
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.5.0.0 RC28 | ✅| N/A | ✅ | ✅ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 0.5.0.0 RC26 | ✅ | N/A | ✅ | ✅ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 
 ## Fallback
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.5.0.0 RC28 | ⬜️ | ⬜️ | ⬜️| ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.5.0.0 RC26 | ✅ | ✅ | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC
 
 ## alphav-dance
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.5.0.0 RC26 | WIP | ✅ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 0.5.0.0 RC26 | WIP | ✅ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 
 Trivia: 
@@ -67,6 +70,37 @@ LGC - Legacy Translation (From Alpha 4)
 ### Keep your files clean/synchronized 
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
+
+## 0.5.0.0 RC28
+
+### Fallback
+
+```ini
+[GameButton]
+Bongo Left=Bongo Left
+Bongo Right=Bongo Right
+Bongo Clap=Bongo Clap
+
+[OptionExplanations]
+AutoKeySoundBMS=Enable or disable autokeysounds so you dont have to hit them to play.
+BMSHeaderLoad=Enable or disable loading header files on BMS - Disable for Old HDD's.
+
+# This comment is here only to fix the colors'
+
+[OptionNames]
+Enable=Enable
+Disable=Disable
+BMS=BMS
+Full=Full
+OutFox=OutFox
+
+[OptionTitles]
+AutoKeySoundBMS=AutoKeysounds for BMS
+BMSHeaderLoad=Load BMS Header
+
+[NativeLanguageNames]
+PortugueseBR=Português brasileiro
+```
 
 ## 0.5.0.0 RC26
 ### Fallback

@@ -32,7 +32,7 @@ Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Heb
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-0.5.0.0 RC30 | ⬜️ | ⬜️ | ⬜️| ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+0.5.0.0 RC30 | ✅ | ⬜️ | ⬜️| ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.5.0.0 RC28 | ✅ | ⬜️ | ⬜️| ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.5.0.0 RC26 | ✅ | ✅ | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC | LGC
 
@@ -40,7 +40,7 @@ Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Heb
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese | Dutch
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-0.5.0.0 RC30 | WIP | ⬜️ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
+0.5.0.0 RC30 | ✅ | ⬜️ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 0.5.0.0 RC28 | WIP | ✅ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 0.5.0.0 RC26 | WIP | ✅ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A
 

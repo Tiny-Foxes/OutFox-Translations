@@ -54,7 +54,7 @@ To keep your files clean and synchronized with the EN files, you can use the Tra
 ## 0.4.19.0
 ### Fallback
 ```ini
-[GameButtons]
+[GameButton]
 Bongo Left=Bongo Left # New
 Bongo Right=Bongo Right # New
 Bongo Clap=Bongo Clap # New

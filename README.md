@@ -9,6 +9,7 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.5.0-pre042-a26 | ⬜️ | WIP | ⬜️ | ⬜️ | WIP | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.4.19.0 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
 0.4.15.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
 0.4.14.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ⬜️ | ⬜️ | ⬜ | ✅ | ⬜️ | ✅
@@ -50,6 +51,10 @@ WIP - Work in Progress
 ### Keep your files clean/synchronized 
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
+
+## 0.5.0-pre042-a26
+### alphav-theme
+[File is available here](./alphav-dance/en.ini).
 
 ## 0.4.19.0
 ### Fallback

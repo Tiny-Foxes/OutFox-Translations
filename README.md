@@ -9,6 +9,7 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
+0.5.0-pre042-a34 | WIP | WIP | WIP | ⬜️ | WIP | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.5.0-pre042-a26 | ✅ | WIP | WIP | ⬜️ | WIP | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.4.19.0 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
 0.4.15.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
@@ -51,6 +52,23 @@ WIP - Work in Progress
 ### Keep your files clean/synchronized 
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
+
+## 0.5.0-pre042-a34
+### alphav-theme
+```diff
++ [ScreenFitnessGoalReminder] # NEW
++ TextDescriptionOnePlayer=%s has a Fitness session in progress.\nDo you want to continue or discard the session?
++ TextDescriptionTwoPlayers=%s and %s have a Fitness session in progress.\nDo you want to continue or discard your sessions?
++ Yes=Resume
++ No=Discard
+
+[OptionTitles]
++ AutoConnectToServer=Auto Connect to OutFox Online # New
+
+# Removed as there is no info used for this screen.
+- [ScreenStageInformation]
+- HelpText=
+```
 
 ## 0.5.0-pre042-a26
 ### alphav-theme

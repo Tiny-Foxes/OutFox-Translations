@@ -9,7 +9,8 @@ Please tick the box of your language when done for the requested version.
 
 Version | pt-BR | Español | Japanese | German | Polish | French | Italian | Hebrew | Slovak | Czech | Simplified Chinese
 :------------ | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- | :-------------
-0.5.0-pre042-a34 | WIP | WIP | WIP | ⬜️ | WIP | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+0.5.0-pre043-a6 | WIP | WIP | WIP | ⬜️ | WIP | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
+0.5.0-pre042-a34 | ✅ | WIP | WIP | ⬜️ | WIP | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.5.0-pre042-a26 | ✅ | WIP | WIP | ⬜️ | WIP | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️
 0.4.19.0 | ✅ | ✅ | ✅ | ⬜️ | ✅ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ✅
 0.4.15.0 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
@@ -53,21 +54,57 @@ WIP - Work in Progress
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
 
-## 0.5.0-pre042-a34
+## 0.5.0-pre043-a6
 ### alphav-theme
 ```diff
-+ [ScreenFitnessGoalReminder] # NEW
-+ TextDescriptionOnePlayer=%s has a Fitness session in progress.\nDo you want to continue or discard the session?
-+ TextDescriptionTwoPlayers=%s and %s have a Fitness session in progress.\nDo you want to continue or discard your sessions?
-+ Yes=Resume
-+ No=Discard
++ [ScreenSelectPlayMode]
++ EasyExplanation=For those just starting out.
++ NormalExplanation=The standard game.
++ # RecentExplanation=List of recently played songs.
++ RaveExplanation=Charge attacks to distract your opponent!
++ NonstopExplanation=Play through sets of songs consecutively.
++ OniExplanation=Play through sets of songs with limited life.
++ EndlessExplanation=How long can you last?
+
++ EasyTitle=Easy
++ NormalTitle=Normal
++ # RecentTitle=Recent
++ ExtendedTitle=Extended
++ OniTitle=Oni
++ EndlessTitle=Endless
++ RaveTitle=Rave
+
++ ConfirmText=Confirm?
+
+[OptionsMenu]
++ Experimental=Experimental
+
+[ScreenSelectProfile]
++ MemDescText=Use your Memory Card for this session.
++ GuestDescText=Skip using a profile and just play songs!
++ 
++ LastPlayedHeader=LAST PLAYED
++ TotalPlayTimeHeader=TOTAL PLAY TIME
++ SongsPlayedHeader=SONGS PLAYED
++ LastSessionString=LAST SESSION: %s
++ 
++ LocalProfile=LOCAL PROFILE
++ MemoryCardProfile=MEMORY CARD
++ GuestProfile=GUEST
++ 
++ PlayerNumberText=PLAYER %d
++ JoinText=JOIN
++ JoinHelpText=Touch, Press &START; or [Enter]!
+
+[ScreenEvaluation]
++ ButtonFinishSession=End Session
 
 [OptionTitles]
-+ AutoConnectToServer=Auto Connect to OutFox Online # New
++ SkipHomeEvaluationChoices=Skip evaluation two-step options
++ HereBeDragons=Here be dragons! These are experimental features, so expect them to break.
 
-# Removed as there is no info used for this screen.
-- [ScreenStageInformation]
-- HelpText=
+[OptionExplanations]
++ SkipHomeEvaluationChoices=Tells the game to skip the theme's two-step choices present in Evaluation, mimicking the original behavior of pressing start to move on. This is forced on when in non-Event Mode.
 ```
 
 ## 0.5.0-pre042-a26

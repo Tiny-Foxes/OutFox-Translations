@@ -36,7 +36,7 @@ Trivia:
 
 ⬜️ - Not implemented
 
-N/A - Non existant at its time
+N/A - Non existent at its time
 
 WIP - Work in Progress
 <!--- This is a comment that won't appear in the readme.
@@ -86,7 +86,7 @@ Foot=Foot # New
 Punch=Punch # New
 
 [OptionExplanations]
-MissLayerSeconds=Determines the ammount of time to show the Miss layer in Be-mu charts before toggling off. # New
+MissLayerSeconds=Determines the amount of time to show the Miss layer in Be-mu charts before toggling off. # New
 
 SoundEffect= # Removed
 

@@ -36,7 +36,7 @@ Trivia:
 
 ⬜️ - Not implemented
 
-N/A - Non existent at its time
+N/A - Non existent at this time
 
 WIP - Work in Progress
 <!--- This is a comment that won't appear in the readme.

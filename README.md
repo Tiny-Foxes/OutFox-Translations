@@ -54,6 +54,18 @@ WIP - Work in Progress
 
 To keep your files clean and synchronized with the EN files, you can use the Translation-Toolkit: https://github.com/Tiny-Foxes/Translation-Toolkit/releases/latest, find more tools at [OutFox wiki tools page](https://outfox.wiki/dev/translation/#tools-and-practices)
 
+## 0.5.0-pre043-a41
+
+### alphav-dance
+
+```diff
+[OptionTitles]
++ ShowThemeBurnerInfo=Show Theme Info On Screen
+
+[OptionExplanations]
++ ShowThemeBurnerInfo=Display info about the game and build on the top of the screen. Useful when reporting bugs.
+```
+
 ## 0.5.0-pre043-a20
 
 ### _fallback
